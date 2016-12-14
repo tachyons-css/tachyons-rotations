@@ -1,7 +1,7 @@
 {
   "name": "tachyons-rotations",
-  "description": "Base CSS module for Tachyons",
-  "version": "1.2.6",
+  "description": "Css for setting the rotation of an element.",
+  "version": "1.0.0",
   "author": {
     "name": "mrmrs",
     "email": "hi@mrmrs.cc",
@@ -21,7 +21,7 @@
   "repository": "tachyons-css/tachyons-rotations",
   "license": "MIT",
   "devDependencies": {
-    "tachyons-cli": "^1.0.9",
+    "tachyons-cli": "^1.0.10",
     "watch": "^1.0.1"
   },
   "scripts": {
