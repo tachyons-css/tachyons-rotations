@@ -1,6 +1,6 @@
-# tachyons-rotations 1.2.6
+# tachyons-rotations 1.0.1
 
-Base CSS module for Tachyons
+Css for setting the rotation of an element.
 
 #### Stats
 
@@ -55,7 +55,7 @@ $ tachyons path/to/css-file.css > dist/t.css
 The easiest and most simple way to use the css is to use the cdn hosted version. Include it in the head of your html with:
 
 ```
-<link rel="stylesheet" href="http://unpkg.com/tachyons-rotations@1.2.6/css/tachyons-rotations.min.css" />
+<link rel="stylesheet" href="http://unpkg.com/tachyons-rotations@1.0.1/css/tachyons-rotations.min.css" />
 ```
 
 ##### Locally
