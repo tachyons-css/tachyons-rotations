@@ -2,6 +2,8 @@
 
    ROTATIONS
 
+   Ref: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate
+
 */
 .rotate-45 { -webkit-transform: rotate( 45deg ); transform: rotate( 45deg ); }
 .rotate-90 { -webkit-transform: rotate( 90deg ); transform: rotate( 90deg ); }

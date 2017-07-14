@@ -1,10 +1,10 @@
-# tachyons-rotations 1.0.1
+# tachyons-rotations 1.0.3
 
 Css for setting the rotation of an element.
 
 #### Stats
 
-307 | 28 | 56
+363 | 28 | 56
 ---|---|---
 bytes | selectors | declarations
 
@@ -55,7 +55,7 @@ $ tachyons path/to/css-file.css > dist/t.css
 The easiest and most simple way to use the css is to use the cdn hosted version. Include it in the head of your html with:
 
 ```
-<link rel="stylesheet" href="http://unpkg.com/tachyons-rotations@1.0.1/css/tachyons-rotations.min.css" />
+<link rel="stylesheet" href="http://unpkg.com/tachyons-rotations@1.0.3/css/tachyons-rotations.min.css" />
 ```
 
 ##### Locally
@@ -77,6 +77,8 @@ Running `$ npm start` will process the source css and place the built css in the
 /*
 
    ROTATIONS
+
+   Ref: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate
 
 */
 .rotate-45 { -webkit-transform: rotate( 45deg ); transform: rotate( 45deg ); }
