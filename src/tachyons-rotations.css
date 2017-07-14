@@ -6,6 +6,8 @@
 
    ROTATIONS
 
+   Ref: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate
+
 */
 
 .rotate-45 { transform: rotate(45deg); }
