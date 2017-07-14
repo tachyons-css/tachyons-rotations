@@ -22,7 +22,7 @@
   "repository": "tachyons-css/tachyons-rotations",
   "license": "MIT",
   "devDependencies": {
-    "tachyons-cli": "^1.0.10",
+    "tachyons-cli": "^1.0.11",
     "watch": "^1.0.1"
   },
   "scripts": {
